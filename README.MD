@@ -147,6 +147,15 @@ I also built our **company website** with JavaScript.
 I used C++ mainly for **systems programming**.  
 I’m not as fluent as in Python, but I’m continuously learning.
 
+___
+
+### ☕ Java  
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="60"/>
+
+I use Java for **object-oriented programming**, backend systems, and Android development.  
+It provides strong typing and portability, making it suitable for large-scale and scalable applications.  
+I’m continuously expanding my knowledge in Java through real-world projects and systems design.
+
 ---
 
 ### 🐘 PHP  
