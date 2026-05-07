@@ -1,119 +1,111 @@
-# Hello, I'm Park Bugeon
+# 👋 Park Bugeon
 
-I am a software developer focused on building real-world systems, scalable infrastructure, and production-ready applications.
+Software developer focused on scalable systems, real-time infrastructure, and production-grade engineering.
 
-I started programming in 2022 with Python and quickly expanded into backend systems, frontend engineering, AI development, automation, and Linux-based infrastructure.
+Started programming in 2022 with Python.
+Since then, I have expanded into backend systems, infrastructure engineering, AI/ML systems, low-level programming, and real-world deployment environments.
 
-Despite being only 15 years old, I have already worked as a freelance developer for multiple companies and participated in the development of real applications and production systems.
+At 15 years old, I have already worked as a freelance developer across multiple projects involving:
+
+* production web platforms
+* Android applications
+* AI systems
+* CRM infrastructure
+* automation pipelines
+* real-time data systems
 
 ---
 
-## Competitive Programming & Problem Solving
+# ⚡ Competitive Programming
 
 * Reached Top 37 on Baekjoon Online Judge
-* Strong background in algorithmic thinking and optimization
-* Experienced with low-level systems, execution flow, and performance-oriented development
+* Strong algorithmic problem-solving background
+* Focused on optimization, execution flow, and systems-level thinking
 
-My development style emphasizes:
+I enjoy solving problems where:
 
-* execution speed
-* system reliability
-* scalability
-* practical problem solving
+* performance matters
+* scalability matters
+* reliability matters
+* failure handling matters
 
 ---
 
-## Real-World Development Experience
+# 🚀 Engineering Experience
 
-I have worked on a variety of real-world software projects including:
+## Infrastructure & Systems
 
-### Web & Application Development
+* Linux-based server operations
+* VPS / dedicated server management
+* NAS infrastructure
+* Raspberry Pi systems
+* Self-hosted environments
+* 24/7 automation systems
+* Service monitoring & deployment pipelines
 
-* Full-stack web platforms
-* Android application development
-* Real-time dashboards and user interfaces
-* Backend API systems and infrastructure
+Experienced with systems that:
 
-### AI & Machine Learning Systems
+* process real-time data
+* run continuously for long periods
+* require fault tolerance
+* must remain observable and maintainable
+
+---
+
+## AI & Data Systems
 
 * Discriminative AI systems
-* AI-based automation pipelines
-* Data analysis and prediction systems
-* Realistic ML backtesting environments
+* AI automation pipelines
+* Prediction & analysis systems
+* ML backtesting environments
+* Real-time cryptocurrency infrastructure
 
-### Business & Infrastructure Systems
+Focused heavily on practical AI applications rather than experimental demos.
 
+---
+
+## Web & Application Development
+
+* Full-stack web applications
+* Android application development
+* Backend API systems
+* Real-time dashboards
+* Interactive frontend systems
 * CRM platforms
-* Linux-based server environments
-* 24/7 automation systems
-* Real-time cryptocurrency data infrastructure
-* NAS and Raspberry Pi server systems
-
-I focus heavily on systems that:
-
-* operate continuously
-* process real-time data
-* remain maintainable long-term
-* can be fully observed and controlled
 
 ---
 
-## 🖥 Technologies & Infrastructure
+# 🖥 Tech Stack
 
-### Backend / Systems
+## Languages
 
-* Python
-* Go
-* PHP
-* Java
-* SQL
-* Bash
+Python • Go • JavaScript • TypeScript • C • C++ • Rust • PHP • Java • SQL • Bash • Solidity
 
-### Frontend
+## Infrastructure
 
-* JavaScript
-* TypeScript
-* CSS
-
-### Systems Programming
-
-* C
-* C++
-* Rust
-
-### Other Technologies
-
-* Solidity
-* Linux
-* Ubuntu
-* Kali Linux
-* Git & GitHub
-* systemd / cron
-* NAS infrastructure
-* Raspberry Pi servers
+Linux • Ubuntu • Kali Linux • Git • GitHub • systemd • cron • NAS • Raspberry Pi • Self-hosted Services
 
 ---
 
-## Development Philosophy
+# 🧠 Development Philosophy
 
-I value:
+I prefer:
 
 * execution over theory
 * reliability over hype
-* long-term maintainability
-* deep understanding of systems
+* deep system understanding over abstraction-heavy development
 
-I prefer building systems that are:
+I build systems designed to be:
 
-* production-ready
 * scalable
-* observable
 * fault-tolerant
+* observable
+* production-oriented
 
-rather than temporary demos or purely theoretical projects.
+with a strong emphasis on long-term maintainability and operational stability.
 
 ---
 
-## Contact
+# 📫 Contact
 
-📧 Email: [bagdoeon827@gmail.com](mailto:bagdoeon827@gmail.com)
+📧 [bagdoeon827@gmail.com](mailto:bagdoeon827@gmail.com)
