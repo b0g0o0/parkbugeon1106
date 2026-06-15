@@ -1,33 +1,33 @@
 # 👋 Park Bugeon
 
-Software developer focused on scalable systems, real-time infrastructure, and production-grade engineering.
+Software developer focused on backend systems, infrastructure engineering, and real-time applications.
 
-Started programming in 2022 with Python.
-Since then, I have expanded into backend systems, infrastructure engineering, AI/ML systems, low-level programming, and real-world deployment environments.
+Started programming in 2022 with Python and gradually expanded into backend development, Linux infrastructure, automation systems, and practical machine learning.
 
-At 15 years old, I have already worked as a freelance developer across multiple projects involving:
+At 16 years old, I have built and operated projects involving:
 
-* production web platforms
-* Android applications
-* AI systems
-* CRM infrastructure
-* automation pipelines
-* real-time data systems
+• Real-time cryptocurrency data systems
+• Automated trading infrastructure
+• Full-stack web applications
+• Android applications
+• AI-powered analysis tools
+• Self-hosted server environments
 
 ---
 
 # ⚡ Competitive Programming
 
-* Reached Top 37 on Baekjoon Online Judge
-* Strong algorithmic problem-solving background
-* Focused on optimization, execution flow, and systems-level thinking
+• Reached Rank #37 on Baekjoon Online Judge
+• Ranked within the top 0.11% of all users
+• Strong background in algorithms and optimization
+• Interested in performance-critical and scalable systems
 
 I enjoy solving problems where:
 
-* performance matters
-* scalability matters
-* reliability matters
-* failure handling matters
+• Performance matters
+• Scalability matters
+• Reliability matters
+• Failure handling matters
 
 ---
 
@@ -35,77 +35,91 @@ I enjoy solving problems where:
 
 ## Infrastructure & Systems
 
-* Linux-based server operations
-* VPS / dedicated server management
-* NAS infrastructure
-* Raspberry Pi systems
-* Self-hosted environments
-* 24/7 automation systems
-* Service monitoring & deployment pipelines
+• Linux / Ubuntu
+• VPS and dedicated servers
+• NAS infrastructure
+• Raspberry Pi systems
+• Monitoring and automation
+• Deployment pipelines
+• Self-hosted services
 
 Experienced with systems that:
 
-* process real-time data
-* run continuously for long periods
-* require fault tolerance
-* must remain observable and maintainable
+• Process real-time data
+• Run continuously for long periods
+• Require fault tolerance
+• Must remain observable and maintainable
 
 ---
 
-## AI & Data Systems
+## AI & Data
 
-* Discriminative AI systems
-* AI automation pipelines
-* Prediction & analysis systems
-* ML backtesting environments
-* Real-time cryptocurrency infrastructure
+• Machine learning pipelines
+• Prediction systems
+• Data collection infrastructure
+• Backtesting environments
+• AI-powered automation
 
-Focused heavily on practical AI applications rather than experimental demos.
+Focused on practical AI applications and production-oriented systems.
 
 ---
 
-## Web & Application Development
+## Web & Applications
 
-* Full-stack web applications
-* Android application development
-* Backend API systems
-* Real-time dashboards
-* Interactive frontend systems
-* CRM platforms
+• Full-stack web applications
+• Backend API development
+• Real-time dashboards
+• Interactive frontend systems
+• Android applications
 
 ---
 
 # 🖥 Tech Stack
 
-## Languages
+## Primary
 
-Python • Go • JavaScript • TypeScript • C • C++ • Rust • PHP • Java • SQL • Bash • Solidity
+Python
 
-## Infrastructure
+## Regularly Used
 
-Linux • Ubuntu • Kali Linux • Git • GitHub • systemd • cron • NAS • Raspberry Pi • Self-hosted Services
+JavaScript • TypeScript • SQL • Bash
+
+## Familiar With
+
+Go • C • Java • HTML/CSS
+
+## Currently Exploring
+
+Rust • C++ • Solidity
 
 ---
 
 # 🧠 Development Philosophy
 
-I prefer:
+I enjoy building systems that are:
 
-* execution over theory
-* reliability over hype
-* deep system understanding over abstraction-heavy development
+• Reliable
+• Observable
+• Scalable
+• Maintainable
 
-I build systems designed to be:
+I value execution, continuous learning, and a deep understanding of how systems work under real-world conditions.
 
-* scalable
-* fault-tolerant
-* observable
-* production-oriented
+Rather than focusing on trends, I prefer building software that solves practical problems and remains stable over time.
 
-with a strong emphasis on long-term maintainability and operational stability.
+---
+
+# 🎯 Current Focus
+
+• Backend Engineering
+• Infrastructure & Self-Hosting
+• Automation Systems
+• Real-Time Data Processing
+• Machine Learning Applications
+• Building Products for Real Users
 
 ---
 
 # 📫 Contact
 
-📧 [bagdoeon827@gmail.com](mailto:bagdoeon827@gmail.com)
+📧 bagdoeon827@gmail.com
