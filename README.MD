@@ -1,26 +1,26 @@
 # 👋 Park Bugeon
 
-Software developer focused on backend systems, infrastructure engineering, and real-time applications.
+Backend and Infrastructure Engineer focused on real-time systems, automation, and large-scale data processing.
 
-Started programming in 2022 with Python and gradually expanded into backend development, Linux infrastructure, automation systems, and practical machine learning.
+I started programming in 2022 with Python and quickly became interested in how complex systems operate under real-world constraints. Since then, I have expanded into backend engineering, Linux infrastructure, automation, machine learning, and self-hosted environments.
 
-At 16 years old, I have built and operated projects involving:
+At 16 years old, I have designed, built, and operated projects involving:
 
-• Real-time cryptocurrency data systems
-• Automated trading infrastructure
-• Full-stack web applications
+• Real-time cryptocurrency market data infrastructure
+• Automated trading and quantitative backtesting systems
+• Full-stack web platforms
 • Android applications
 • AI-powered analysis tools
-• Self-hosted server environments
+• Linux server environments
+• Self-hosted services and automation systems
 
 ---
 
-# ⚡ Competitive Programming
+## ⚡ Competitive Programming
 
 • Reached Rank #37 on Baekjoon Online Judge
 • Ranked within the top 0.11% of all users
-• Strong background in algorithms and optimization
-• Interested in performance-critical and scalable systems
+• Strong background in algorithms, optimization, and systems thinking
 
 I enjoy solving problems where:
 
@@ -31,95 +31,80 @@ I enjoy solving problems where:
 
 ---
 
-# 🚀 Engineering Experience
+## 🚀 Engineering Experience
 
-## Infrastructure & Systems
+### Infrastructure & Systems
 
-• Linux / Ubuntu
-• VPS and dedicated servers
-• NAS infrastructure
-• Raspberry Pi systems
-• Monitoring and automation
-• Deployment pipelines
-• Self-hosted services
+• Linux / Ubuntu Administration
+• Dedicated Server & VPS Management
+• NAS Infrastructure
+• Raspberry Pi Systems
+• Monitoring & Automation
+• Deployment Pipelines
+• Self-Hosted Services
 
 Experienced with systems that:
 
-• Process real-time data
-• Run continuously for long periods
+• Operate continuously 24/7
+• Process real-time data streams
 • Require fault tolerance
 • Must remain observable and maintainable
 
 ---
 
-## AI & Data
+### Backend Engineering
 
-• Machine learning pipelines
-• Prediction systems
-• Data collection infrastructure
-• Backtesting environments
-• AI-powered automation
-
-Focused on practical AI applications and production-oriented systems.
-
----
-
-## Web & Applications
-
-• Full-stack web applications
-• Backend API development
-• Real-time dashboards
-• Interactive frontend systems
-• Android applications
-
----
-
-# 🖥 Tech Stack
-
-## Primary
-
-Python
-
-## Regularly Used
-
-JavaScript • TypeScript • SQL • Bash
-
-## Familiar With
-
-Go • C • Java • HTML/CSS
-
-## Currently Exploring
-
-Rust • C++ • Solidity
-
----
-
-# 🧠 Development Philosophy
-
-I enjoy building systems that are:
-
-• Reliable
-• Observable
-• Scalable
-• Maintainable
-
-I value execution, continuous learning, and a deep understanding of how systems work under real-world conditions.
-
-Rather than focusing on trends, I prefer building software that solves practical problems and remains stable over time.
-
----
-
-# 🎯 Current Focus
-
-• Backend Engineering
-• Infrastructure & Self-Hosting
-• Automation Systems
+• REST API Development
 • Real-Time Data Processing
-• Machine Learning Applications
-• Building Products for Real Users
+• Service Automation
+• Database Design & Integration
+• Dashboard Systems
 
 ---
 
-# 📫 Contact
+### AI & Data Systems
 
-📧 bagdoeon827@gmail.com
+• Machine Learning Pipelines
+• Prediction Systems
+• Data Collection Infrastructure
+• Quantitative Backtesting Environments
+• AI-Powered Automation
+
+My primary interest is applying AI to real-world systems rather than building isolated demonstrations.
+
+---
+
+## 🖥 Languages
+
+• Python
+• JavaScript
+• TypeScript
+• Java
+• C
+
+---
+
+## 🎯 Areas of Interest
+
+• Distributed Systems
+• Infrastructure Engineering
+• Real-Time Data Processing
+• Machine Learning Systems
+• Automation
+• Backend Architecture
+
+---
+
+## 🧠 Engineering Philosophy
+
+I am particularly interested in understanding how complex systems behave under real-world constraints, including scale, latency, reliability, and failure.
+
+I believe great software is built through simplicity, observability, and continuous iteration.
+
+My goal is not only to write code, but to design systems that remain reliable, maintainable, and useful as they grow.
+
+---
+
+## 📫 Contact
+
+📧 [bagdoeon827@gmail.com](mailto:bagdoeon827@gmail.com)
