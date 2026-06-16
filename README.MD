@@ -1,42 +1,72 @@
 # 👋 Park Bugeon
 
-Backend and Infrastructure Engineer focused on real-time systems, automation, and large-scale data processing.
+## AI Systems Engineer
 
-I started programming in 2022 with Python and quickly became interested in how complex systems operate under real-world constraints. Since then, I have expanded into backend engineering, Linux infrastructure, automation, machine learning, and self-hosted environments.
+Building intelligent systems, machine learning applications, and real-world software products.
 
-At 16 years old, I have designed, built, and operated projects involving:
+I started programming in 2022 with Python and quickly became fascinated by how intelligent systems learn, make decisions, and operate at scale.
 
-• Real-time cryptocurrency market data infrastructure
-• Automated trading and quantitative backtesting systems
-• Full-stack web platforms
+Since then, I have focused on combining machine learning, automation, and backend engineering to build practical systems that solve real-world problems.
+
+At 16 years old, I have designed and developed projects involving:
+
+• Machine learning applications
+• AI-powered analysis systems
+• Automated decision-making platforms
+• Real-time cryptocurrency data infrastructure
+• Quantitative backtesting environments
+• Full-stack web applications
 • Android applications
-• AI-powered analysis tools
-• Linux server environments
-• Self-hosted services and automation systems
+• Self-hosted Linux services
 
 ---
 
-## ⚡ Competitive Programming
+# ⚡ Competitive Programming
 
 • Reached Rank #37 on Baekjoon Online Judge
 • Ranked within the top 0.11% of all users
-• Strong background in algorithms, optimization, and systems thinking
+• Strong background in algorithms, optimization, and computational problem-solving
 
 I enjoy solving problems where:
 
+• Intelligence matters
 • Performance matters
 • Scalability matters
 • Reliability matters
-• Failure handling matters
 
 ---
 
-## 🚀 Engineering Experience
+# 🤖 AI & Machine Learning
 
-### Infrastructure & Systems
+My primary interest is building AI systems that can operate effectively in real-world environments.
 
-• Linux / Ubuntu Administration
-• Dedicated Server & VPS Management
+Areas of experience include:
+
+• Machine Learning Pipelines
+• Prediction Systems
+• AI-Powered Analysis Tools
+• Data Processing Systems
+• Quantitative Backtesting Platforms
+• AI Automation Workflows
+
+I am particularly interested in how intelligent systems make decisions under uncertainty and how machine learning can be transformed into useful products.
+
+---
+
+# 🚀 Engineering Experience
+
+## Backend Engineering
+
+• REST API Development
+• Real-Time Applications
+• Database Design & Integration
+• Service Automation
+• Dashboard Systems
+
+## Infrastructure & Operations
+
+• Linux / Ubuntu
+• VPS & Dedicated Servers
 • NAS Infrastructure
 • Raspberry Pi Systems
 • Monitoring & Automation
@@ -52,29 +82,7 @@ Experienced with systems that:
 
 ---
 
-### Backend Engineering
-
-• REST API Development
-• Real-Time Data Processing
-• Service Automation
-• Database Design & Integration
-• Dashboard Systems
-
----
-
-### AI & Data Systems
-
-• Machine Learning Pipelines
-• Prediction Systems
-• Data Collection Infrastructure
-• Quantitative Backtesting Environments
-• AI-Powered Automation
-
-My primary interest is applying AI to real-world systems rather than building isolated demonstrations.
-
----
-
-## 🖥 Languages
+# 🖥 Languages
 
 • Python
 • JavaScript
@@ -84,27 +92,27 @@ My primary interest is applying AI to real-world systems rather than building is
 
 ---
 
-## 🎯 Areas of Interest
+# 🎯 Areas of Interest
 
-• Distributed Systems
-• Infrastructure Engineering
-• Real-Time Data Processing
+• Artificial Intelligence
 • Machine Learning Systems
-• Automation
-• Backend Architecture
+• AI Agents & Automation
+• Real-Time Data Processing
+• Backend Engineering
+• Distributed Systems
 
 ---
 
-## 🧠 Engineering Philosophy
+# 🧠 Engineering Philosophy
 
-I am particularly interested in understanding how complex systems behave under real-world constraints, including scale, latency, reliability, and failure.
+I believe the future belongs to engineers who can bridge the gap between artificial intelligence and real-world products.
 
-I believe great software is built through simplicity, observability, and continuous iteration.
+Rather than building isolated prototypes, I focus on creating systems that are intelligent, scalable, reliable, and capable of delivering value in production environments.
 
-My goal is not only to write code, but to design systems that remain reliable, maintainable, and useful as they grow.
+My goal is to build AI systems that solve meaningful problems and remain useful as they grow.
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 📧 [bagdoeon827@gmail.com](mailto:bagdoeon827@gmail.com)
