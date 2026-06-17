@@ -12,7 +12,7 @@ My work combines software engineering, machine learning, and systems design to b
 
 ## Competitive Programming
 
-- Ranked **#37** on Baekjoon Online Judge
+- Ranked **#67** on Baekjoon Online Judge
 - Top **0.11%** among all users
 - Strong foundation in algorithms, optimization, data structures, and computational problem solving
 
